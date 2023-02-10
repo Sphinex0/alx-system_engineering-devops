@@ -1,2 +1,2 @@
-#!/bon/bash
-chmod ugo+x hello
+#!/bin/bash
+chmod 751 hello
